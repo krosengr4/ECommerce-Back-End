@@ -2,5 +2,4 @@
 ### In /models
 
 ### In /routes/api
-Category-routes.js
-product-routes.js
+tag-routes.js
