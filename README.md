@@ -1,19 +1,47 @@
-# E-commerce Back End Starter Code
+# E-Commerce Back-End ORM Challenge 
+ 
+![License Badge](https://img.shields.io/badge/License-MIT-blue.svg)
 
-### User Story
-AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
+## Table of Contents: 
+[Description](#description) 
 
-### Acceptance Criteria 
-GIVEN a functional Express.js API
-WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
-THEN I am able to connect to a database using Sequelize
-WHEN I enter schema and seed commands
-THEN a development database is created and is seeded with test data
-WHEN I enter the command to invoke the application
-THEN my server is started and the Sequelize models are synced to the MySQL database
-WHEN I open API GET routes in Insomnia Core for categories, products, or tags
-THEN the data for each of these routes is displayed in a formatted JSON
-WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
-THEN I am able to successfully create, update, and delete data in my database
+[Installation](#installation) 
+
+[Usage](#usage) 
+
+[Contributing](#contributing) 
+
+[Tests](#tests) 
+
+[License](#license) 
+
+[Questions](#questions) 
+
+
+## Description
+In this repository, there is back-end code to manage an e-commerce website. This lets us make calls to the database without having to write SQL queries. In this backend, users can read, create, update, and delete categories, products, and tags. 
+
+## Installation
+Run "npm install" to install dependencies.
+
+## Usage
+Clone the repository to your local device.
+
+## Video
+![Walk Through Video](https://drive.google.com/file/d/1LWttH_lKO6u2D3wceemFqzOEpNbWBxbG/view)
+
+## Contributing
+
+### Please contribute to this project:
+- [Submit Bugs and Request Features you'd like to see Implemented](https://github.com/krosengr4/ECommerce-Back-End/issues)
+
+## Tests
+No tests available
+
+## License
+For more information about the license, please follow this link: https://opensource.org/license/mit/
+
+## Questions
+Here is the link to my Github Profile: https://github.com/krosengr4 
+
+For any additional questions, email me at rosenkev4@gmail.com
